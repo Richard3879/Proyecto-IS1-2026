@@ -5,3 +5,4 @@
 ## Integrantes:
 * Cardozo Ricardo Xavier
 * Paglialunga Julian
+* Antonelli Mariano
